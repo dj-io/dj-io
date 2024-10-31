@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Da'Quan Johnson</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-- 🔭 I’m currently working on [waves](closeapp.co)
+- 🔭 I’m currently working on [waves](https://github.com/DaquanJ/close)
 
 - 🌱 I’m currently learning **rust**
 
