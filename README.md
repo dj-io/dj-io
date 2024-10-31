@@ -1,7 +1,11 @@
 <h1 align="center">Hi, 👋 I'm Da'Quan Johnson</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
+- 🔭 I’m currently working on [waves](https://github.com/DaquanJ/close)
 
+- 🌱 I’m currently learning **rust**
+
+- 👨‍💻 All of my projects are available at [daquanj.com](daquanj.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,11 +13,7 @@
 <a href="https://www.youtube.com/c/gleamito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gleam" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [waves](https://github.com/DaquanJ/close)
 
-- 🌱 I’m currently learning **rust**
-
-- 👨‍💻 All of my projects are available at [daquanj.com](daquanj.com)
 
 [![Daquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daquanj&theme=swiftj)](https://github.com/daquanj/github-readme-stats)
 
