@@ -12,7 +12,7 @@
 [![Daquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daquanj&theme=swiftj)](https://github.com/daquanj/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
-[MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MUI] ( https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white )
 
 
 
