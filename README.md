@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Da'Quan Johnson</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">I love to work in Java, Javascript and Python, but I am happy to use whatever tool is most suited for the job at hand. Some of my favorite daily activities are learning rust, working on large scale applications with my team and watching or reading up on the latest research in the AI/ML space. </h3>
 
 - 🔭 I’m currently working on [waves](https://github.com/DaquanJ/close)
 
