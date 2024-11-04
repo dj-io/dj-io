@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Da'Quan Johnson</h1>
 <h5 align="left">I love to work in Java, Javascript and Python, but I am happy to use whatever tool is most suited for the job at hand. Some of my favorite daily activities are learning rust, working on large scale applications with my team and watching or reading up on the latest research in the Web3 and AI/ML spaces. </h5>
 
-- 🔭 I’m currently working on [waves](https://github.com/DaquanJ/close)
+- 🔭 I’m currently working on [close](https://github.com/DaquanJ/close)
 
 - 🌱 I’m currently learning **rust**
 
