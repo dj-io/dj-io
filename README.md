@@ -1,15 +1,15 @@
-<h1 align="center">Hi, 👋 I'm Da'Quan Johnson</h1>
+<h1 align="center">Hi, 👋 I'm Dean Johnson</h1>
 <h5 align="left">I love to work in Java, Typescript and Python, but I am happy to use whatever tool is most suited for the job at hand. Some of my favorite daily activities are learning rust, working on large scale applications with my team and watching or reading up on the latest research in the Web3 and AI/ML spaces. </h5>
 
-- 🔭 I’m currently working on [close](https://github.com/DaquanJ/close)
+- 🔭 I’m currently working on [close](https://github.com/deanjjohnson/close)
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 Find everything else on my website [daquanjohnson.me](https://daquanjohnson.me).
+- 👨‍💻 Find everything else on my website [deanjohnson.me](https://deanjohnson.me).
 
 
 
-[![Daquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daquanj&theme=swiftj)](https://github.com/daquanj/github-readme-stats)
+[![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanjjohnson&theme=swiftj)](https://github.com/deanjjohnson/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,6 +41,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daquanj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daquanj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gleamito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gleam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deanjjohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deanjjohnson" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gleamito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deanlabs" height="30" width="40" /></a>
 </p>
