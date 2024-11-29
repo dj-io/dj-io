@@ -1,15 +1,15 @@
-<h1 align="center">Hi, 👋 I'm Dean Johnson</h1>
+<h1 align="center">Hi, 👋 I'm Daquan Johnson</h1>
 <h5 align="left">I'm based in New York, NY and I am passionate about shaping the digital landscape through innovative technology. I mostly work with Spring/Java, React/Typescript and Python, but I am happy to use whatever tool is most suited for the job at hand. Some of my favorite daily activities include watching or reading up on the latest research in the Web3 and AI/ML spaces and diving into sys dev with Rust. </h5>
 
-- 🔭 I’m currently working on [close](https://github.com/deanjjohnson/close)
+- 🔭 I’m currently working on [close](https://github.com/dj-io/close)
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 Find everything else on my website [deanjohnson.me](https://deanjohnson.me).
+- 👨‍💻 Find everything else on my website [deanjohnson.me](https://daquanjohnson.me).
 
 
 
-[![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanjjohnson&theme=swiftj)](https://github.com/deanjjohnson/github-readme-stats)
+[![Daquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-io&theme=swiftj)](https://github.com/dj-io/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -41,6 +41,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deanjjohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deanjjohnson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gleamito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deanlabs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daquanj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daquanj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gleamito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dj-io" height="30" width="40" /></a>
 </p>
