@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 Find everything else on my website [deanjohnson.me](https://daquanjohnson.me).
+- 👨‍💻 Find everything else on my website [daquanjohnson.me](https://daquanjohnson.me).
 
 
 
