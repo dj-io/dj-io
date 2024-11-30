@@ -9,7 +9,7 @@
 </h2>
 
 - 🏢 Software Engineer (Full Stack) [**@Waterfield**](https://www.waterfieldtech.com/), in New York, NY
-- 🧰 I build with: `Java` `Spring`, `Typescript`, `React.js` `MUI`, `Any Tool` ...
+- 🧰 I build with: `Java` `Spring`, `Typescript` `React.js` `MUI`, `Any Tool` ...
 - 🔭 I'm currently working on [**Close**](https://github.com/dj-io/close)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
