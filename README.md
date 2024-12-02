@@ -2,21 +2,21 @@
 <h2 align="center"> 
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Daquanj)
-<a href="mailto:daquanj.dev\@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:daquanj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/c/gleamito) 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dj-io)
 
 </h2>
 
 - 🏢 Software Engineer (Full Stack) [**@Waterfield**](https://www.waterfieldtech.com/), in New York, NY
-- 🧰 I build with: `Java` `Spring`, `Typescript` `React.js` `MUI`, `Any Tool` ...
+- 🛠️ I build with: `Java` `Spring`, `Typescript` `React.js` `MUI`, `Whatever Works 😄` ...
 - 🔭 I'm currently working on [**Close**](https://github.com/dj-io/close)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
 
 <h2></h2>
 
-<h3 align="center"> 🧰 More Tools </h3>
+<h3 align="center"> 🧰 Tool Box </h3>
 <h3 align="center"> 
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Any%20Tool%20:)-black?style=for-the-badge&logo=educative" />
+[comment]: <> (<img src="https://img.shields.io/badge/Any%20Tool-black?style=for-the-badge&logo=educative" />)
 
 </h3>
 
