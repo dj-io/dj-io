@@ -8,7 +8,7 @@
 
 </h2>
 
-- 🏢 Software Engineer (Full Stack) [**@Waterfield**](https://www.waterfieldtech.com/), in New York, NY
+- 🏢 Software Engineer (Full Stack) [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
 - 🛠️ I build with: `Java` `Spring`, `Typescript`, `React.js` `MUI` `Tailwind`, `Whatever Works 😄` ...
 - 🔭 I'm currently working on [**Apollo-o1**](https://github.com/dj-io/apollo-o1)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
