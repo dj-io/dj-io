@@ -9,7 +9,7 @@
 </h2>
 
 - 🏢 Software Engineer (Full Stack) [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
-- 🛠️ I build with: `Java` `Spring`, `Typescript`, `React.js` `MUI` `Tailwind`, `Whatever Works 😄` ...
+- 🛠️ I build with: `Java` `Spring`, `Typescript`, `React.js` `Radix-UI` `Tailwind`, `Whatever Works 😄` ...
 - 🔭 I'm currently working on [**Sunday**](https://github.com/dj-io/sunday)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
@@ -27,6 +27,7 @@
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />  
+<img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />  
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />  
