@@ -10,7 +10,7 @@
 
 - 🏢 Software Engineer (Full Stack) [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
 - 🛠️ I build with: `Java` `Spring`, `Typescript`, `React.js` `Radix-UI` `Tailwind`, `Whatever Works 😄` ...
-- 🔭 I'm currently working on [**Sunday**](https://github.com/dj-io/sunday)
+- 🔭 I'm currently working on [**BLU**](https://github.com/dj-io/blu)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
 
