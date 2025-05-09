@@ -8,7 +8,7 @@
 
 </h2>
 
-- 🏢 Software Engineer (Full Stack) [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
+- 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
 - 🛠️ I build with: `Go`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind` `Styled Components`, `Whatever Works 😄` ...
 - 🔭 I'm currently working on [**BLU**](https://github.com/dj-io/blu)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
