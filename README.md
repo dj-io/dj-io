@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
 <!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange"/> -->
 
-<!-- <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />  
 <img src="https://img.shields.io/badge/shadcn%20ui-161618.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
@@ -37,6 +37,7 @@
 <!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> --> 
 <img src="https://img.shields.io/badge/Gin-%2320232a.svg?style=for-the-badge&logo=gin&logoColor=yellow" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
