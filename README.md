@@ -9,7 +9,7 @@
 </h2>
 
 - 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
-- 🛠️ I build with: `Rust`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind` `Styled Components`, `Whatever Works 😄` ...
+- 🛠️ I build with: `Rust`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind`, `Whatever Works 😄` ...
 - 🔭 I'm currently working on [**Grit**](https://gritai.app) & Maintaining [@prose-motions/core](https://github.com/stratum-labs/prose-motions)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
