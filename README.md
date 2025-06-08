@@ -9,8 +9,8 @@
 </h2>
 
 - 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
-- 🛠️ I build with: `Go`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind` `Styled Components`, `Whatever Works 😄` ...
-- 🔭 I'm currently working on [**BLU**](https://github.com/dj-io/blu)
+- 🛠️ I build with: `Rust`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind` `Styled Components`, `Whatever Works 😄` ...
+- 🔭 I'm currently working on [**Grit**](https://gritai.app) & Maintaining [@prose-motions/core](https://github.com/stratum-labs/prose-motions)
 - ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
 
@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  -->
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
-<!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange"/> -->
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange"/>
 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
@@ -35,7 +35,8 @@
 <!-- <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /> -->  
 <!-- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> --> 
 <!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> --> 
-<img src="https://img.shields.io/badge/Gin-%2320232a.svg?style=for-the-badge&logo=gin&logoColor=yellow" />
+<!-- <img src="https://img.shields.io/badge/Gin-%2320232a.svg?style=for-the-badge&logo=gin&logoColor=yellow" /> -->
+<img src="https://img.shields.io/badge/Tokio-%2320232a.svg?style=for-the-badge&logo=tokio&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
