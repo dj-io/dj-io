@@ -9,7 +9,7 @@
 </h2>
 
 - 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
-- 🛠️ I build with: `Python` `FastAPI`, `Typescript` `React.js` , `The tool for the job 😄` ...
+- 🛠️ I build with: `Python` `FastAPI`, `TypeScript` `React` , `Best tool for the job 😄` ...
 - 🔭 I'm currently working on [**Grit**](https://gritai.app) & Maintaining [@prose-motions/core](https://github.com/stratum-labs/prose-motions)
 - ⚡ I enjoy gaming, movies, reading and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
@@ -28,19 +28,21 @@
 
 <!-- <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
-<img src="https://img.shields.io/badge/shadcn%20ui-161618.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />  
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />  
+<!-- <img src="https://img.shields.io/badge/shadcn%20ui-161618.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />   -->
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />   -->
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>  
 <!-- <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /> -->  
 <!-- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> --> 
 <!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> --> 
-<!-- <img src="https://img.shields.io/badge/Gin-%2320232a.svg?style=for-the-badge&logo=gin&logoColor=yellow" /> -->
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/Tokio-%2320232a.svg?style=for-the-badge&logo=tokio&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  
 <!-- <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> --> 
@@ -49,9 +51,6 @@
 <!-- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>   -->
 <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>  -->
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>  
 <!-- <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> -->  
 <!-- <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> -->  
 
