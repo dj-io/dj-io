@@ -1,17 +1,17 @@
 <h3 align="center"> 📫 Let's Connect </h3>
 <h2 align="center"> 
     
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white" />](https://linkedin.com/in/Daquanj)
-<a href="mailto:daquanj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[<img src="https://img.shields.io/badge/X.COM-12100E?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/djxlabs)
+[<img src="https://img.shields.io/badge/Substack-12100E?style=for-the-badge&logo=substack&logoColor=orange" />](https://stratumlabs.substack.com/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@gleamxlabs) 
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dj-io)
+<a href="mailto:daquanj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </h2>
 
 - 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
-- 🛠️ I build with: `Python` `FastAPI`, `Typescript`, `React.js` `Shadcn/UI` `Tailwind`, `Whatever Works 😄` ...
+- 🛠️ I build with: `Python` `FastAPI`, `Typescript` `React.js` , `The tool for the job 😄` ...
 - 🔭 I'm currently working on [**Grit**](https://gritai.app) & Maintaining [@prose-motions/core](https://github.com/stratum-labs/prose-motions)
-- ⚡ I enjoy gaming, reading, playing basketball and spending time with family 👍
+- ⚡ I enjoy gaming, movies, reading and spending time with family 👍
 - 👨‍💻 Find everything else on my website [**daquanjohnson.me**](https://daquanjohnson.me).
 
 <h2></h2>
