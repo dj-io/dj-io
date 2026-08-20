@@ -2,7 +2,7 @@
 <h2 align="center"> 
     
 [<img src="https://img.shields.io/badge/X.COM-12100E?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/d16nx)
-[<img src="https://img.shields.io/badge/Substack-12100E?style=for-the-badge&logo=substack&logoColor=orange" />](https://stratumlabs.substack.com/)
+[<img src="https://img.shields.io/badge/Substack-12100E?style=for-the-badge&logo=substack&logoColor=orange" />](https://daquanjohnson.me/blog)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@d16nx) 
 <a href="mailto:daquanj.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
