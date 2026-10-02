@@ -8,7 +8,7 @@
 
 </h2>
 
-- 🏢 Founding Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
+- 🏢 Product Engineer [**@Stratum-Labs**](https://www.github.com/stratum-labs), in New York, NY
 - 🛠️ I build with: `Python` `FastAPI`, `TypeScript` `React` , `Best tool for the job 😄` ...
 - 🔭 I'm currently working on [**Grit**](https://gritai.app) & Maintaining [@prose-motions/core](https://github.com/stratum-labs/prose-motions)
 - ⚡ I enjoy gaming, movies, reading and spending time with family 👍
