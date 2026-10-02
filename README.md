@@ -39,7 +39,7 @@
 <!-- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> --> 
 <!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> --> 
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Tokio-%2320232a.svg?style=for-the-badge&logo=tokio&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Tokio-%2320232a.svg?style=for-the-badge&logo=tokio&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
